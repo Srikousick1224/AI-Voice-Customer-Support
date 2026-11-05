@@ -5,4 +5,3 @@ fastembed
 openai>=1.0.0
 python-dotenv 
 openai-agents
-use vercel for deployment
